@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://neospincasinoaustralia.net/sitemap.xml
+Sitemap: https://neospin-casino-australia.org/sitemap.xml
